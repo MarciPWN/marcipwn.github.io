@@ -1,0 +1,13 @@
+.gang {
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+    font-size: 60px;
+    color: crimson;
+    text-shadow: 3px 3px black;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100vh;
+    height: auto;
+}
