@@ -26,3 +26,10 @@ img {
     margin-right: auto;
     width: 75%;
   }
+
+.asc {
+    color: white;
+    text-shadow: 1px 1px black;
+    font-size: 25px;
+
+}
